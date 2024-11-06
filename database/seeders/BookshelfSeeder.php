@@ -19,7 +19,7 @@ class BookshelfSeeder extends Seeder
             'name' => 'Novel'
         ]);
         Book::create([
-            'tittle' =>'Filosopi Gajar Terbang',
+            'title' =>'Filosopi Gajar Terbang',
             'author' =>'GTA',
             'year' =>'2024',
             'publisher' =>'GAT',
